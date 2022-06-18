@@ -1,0 +1,4 @@
+C:\Users\akasi\OneDrive\デスクトップ\GM31\2022_0419_2\Debug\2022_0419_2.exe
+C:\Users\akasi\OneDrive\デスクトップ\GM31\2022_0419_2\Debug\2022_0419_2.pdb
+C:\Users\akasi\OneDrive\ドキュメント\Git\2022_0419_2\Debug\2022_0419_2.exe
+C:\Users\akasi\OneDrive\ドキュメント\Git\2022_0419_2\Debug\2022_0419_2.pdb
